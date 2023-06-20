@@ -21,7 +21,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 
 ## Projects
 
-- 🚀 [Fl-Studio-Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of loop packages.
+- 🚀 [Fl-Studio-Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.
 
 ## Connect with Me
 
