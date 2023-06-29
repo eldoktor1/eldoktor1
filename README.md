@@ -22,6 +22,9 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 ## Projects
 
 - 🚀 [Fl-Studio-Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.
+-📁 [Active Directory Runbook](https://github.com/eldoktor1/Active-Directory-Runbook): A comprehensive guide and scripts for managing and setting up a domain environment using Active Directory. 🚀
+
+
 
 ## Connect with Me
 
