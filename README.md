@@ -26,6 +26,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🔍 [SQL Query Filters](https://github.com/eldoktor1/SQL-Lab):  A step-by-step guide for practicing and exploring SQL queries, covering various concepts and scenarios.
 - 🐧 [File Permissions in Linux](https://github.com/eldoktor1/-File-Permissions-in-Linux-): Safeguarding access control and security for files and directories in Linux.
 - 🔓 [Penetration Test Report](https://github.com/eldoktor1/Penetration-Test-Report): An assessment of a fictitious company's cyber hygiene
+- 🛡️ [Snort IPS installation and configuration on Windows](https://github.com/eldoktor1/Snort-IPS-on-Windows): A comprehensive guide to installing and configuring Snort IPS on Windows, ensuring robust network security
 
 
 
