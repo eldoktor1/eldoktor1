@@ -30,7 +30,6 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus  
 
 
-
 ## Connect with Me
 
 💼 [LinkedIn](https://linkedin.com/in/mina-abskhron)
