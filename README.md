@@ -3,8 +3,8 @@
 I'm Mina Abskhron, a Fullstack Cybersecurity Bootcamp graduate and a Google Certified Cyber Security Professional. 🎓🔒
 
 🎓 Fullstack Cybersecurity Bootcamp Graduate \
-🔒 Google Certified Cyber Security Professional \
-☁️ Google Cloud Digital Leader Certificate \
+🔒 Google Certified Cybersecurity Professional \
+☁️ Google Certified Cloud Digital Leader \
 🎓 San Francisco State University Psychology Graduate
 
 ## About Me
