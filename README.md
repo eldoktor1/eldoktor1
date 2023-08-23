@@ -18,7 +18,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🌐 Web Application Security
 - 🔒 Network Security
 - 📊 Data Analysis
-- 🧠 Psychology and Human Behavior
+- 📝 Scripting
 
 ## Projects
 
