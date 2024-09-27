@@ -1,8 +1,8 @@
 #Hi there! 👋
 
-I'm Mina Abskhron, a Fullstack Cybersecurity Bootcamp graduate and a Google Certified Cyber Security Professional. 🎓🔒
+I'm Mina Abskhron, a Cal State East Bay cybersecurity graduate and a Google Certified Cyber Security Professional. 🎓🔒
 
-🛡️  CompTIA Security+ Certified \
+🛡️ CompTIA Security+ Certified \
 🎓 Fullstack Cybersecurity Bootcamp Graduate \
 🔒 Google Certified Cybersecurity Professional \
 ☁️ Google Certified Cloud Digital Leader \
