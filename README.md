@@ -29,7 +29,9 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🐧 [File Permissions in Linux](https://github.com/eldoktor1/-File-Permissions-in-Linux-): Safeguarding access control and security for files and directories in Linux.
 - 🔓 [Penetration Test Report](https://github.com/eldoktor1/Penetration-Test-Report): An assessment of a fictitious company's cyber hygiene
 - 🛡️ [Snort IPS installation and configuration on Windows](https://github.com/eldoktor1/Snort-IPS-on-Windows): A comprehensive guide to installing and configuring Snort IPS on Windows, ensuring robust network security
-- 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus  
+- 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus
+- 🛠️ [WAF Bypass Automation Script](https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-/tree/main): A bash script that automates WAF bypass techniques using random user agents, URL encodings, and HTTP header manipulations, with built-in delays to evade detection.
+  
 
 
 ## Connect with Me
