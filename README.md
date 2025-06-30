@@ -23,7 +23,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 
 ## Projects
 
-- 🚀 [Fl Studio Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.
+- 🛰️ [Home SOC Lab](https://github.com/eldoktor1/Home-SOC-Lab): A complete Microsoft Sentinel lab that simulates a real SOC workflow. Deploys a honeypot VM, ingests logs, runs KQL queries, and visualizes attacker IPs on a geographic map.
 - 📁 [Active Directory Runbook](https://github.com/eldoktor1/Active-Directory-Runbook): A comprehensive guide and scripts for managing and setting up a domain environment using Active Directory.
 - 🔍 [SQL Query Filters](https://github.com/eldoktor1/SQL-Lab):  A step-by-step guide for practicing and exploring SQL queries, covering various concepts and scenarios.
 - 🐧 [File Permissions in Linux](https://github.com/eldoktor1/-File-Permissions-in-Linux-): Safeguarding access control and security for files and directories in Linux.
@@ -31,7 +31,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🛡️ [Snort IPS installation and configuration on Windows](https://github.com/eldoktor1/Snort-IPS-on-Windows): A comprehensive guide to installing and configuring Snort IPS on Windows, ensuring robust network security
 - 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus
 - 🛠️ [WAF Bypass Automation Script](https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-/tree/main): A bash script that automates WAF bypass techniques using random user agents, URL encodings, and HTTP header manipulations, with built-in delays to evade detection.
-  
+- 🚀 [Fl Studio Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.  
 
 
 ## Connect with Me
