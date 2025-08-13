@@ -24,6 +24,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 ## Projects
 
 - 🛰️ [Home SOC Lab](https://github.com/eldoktor1/Home-SOC-Lab): A complete Microsoft Sentinel lab that simulates a real SOC workflow. Deploys a honeypot VM, ingests logs, runs KQL queries, and visualizes attacker IPs on a geographic map.
+- 🕵️ [Recon Workflow](https://github.com/eldoktor1/Recon-Workflow): End-to-end bug bounty recon playbook covering subdomain enumeration, liveness/tech fingerprinting, parameter mining, Nuclei/FFUF scans, and report-ready outputs.
 - 📁 [Active Directory Runbook](https://github.com/eldoktor1/Active-Directory-Runbook): A comprehensive guide and scripts for managing and setting up a domain environment using Active Directory.
 - 🔍 [SQL Query Filters](https://github.com/eldoktor1/SQL-Lab):  A step-by-step guide for practicing and exploring SQL queries, covering various concepts and scenarios.
 - 🐧 [File Permissions in Linux](https://github.com/eldoktor1/-File-Permissions-in-Linux-): Safeguarding access control and security for files and directories in Linux.
