@@ -33,8 +33,7 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus
 - 🛠️ [WAF Bypass Automation Script](https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-/tree/main): A bash script that automates WAF bypass techniques using random user agents, URL encodings, and HTTP header manipulations, with built-in delays to evade detection.
 - 🚀 [Fl Studio Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.  
-- 📡 [Recon & Vulnerability Automation System](https://github.com/eldoktor1/Recon-Vulnerability-Automation-System):  
-  Autonomous pipeline for subdomain discovery, recon, and vulnerability scanning with Discord notifications.
+- 📡 [Recon & Vulnerability Automation System](https://github.com/eldoktor1/Recon-Vulnerability-Automation-System): Autonomous pipeline for subdomain discovery, recon, and vulnerability scanning with Discord notifications.
 
 ## Connect with Me
 
