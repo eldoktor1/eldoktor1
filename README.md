@@ -3,7 +3,7 @@
 I'm Mina Abskhron, a Cal State East Bay cybersecurity graduate and a Google Certified Cyber Security Professional. 🎓🔒
 
 🛡️ CompTIA Security+ Certified \
-🛜 CompTIA Network+ Certified
+🛜 CompTIA Network+ Certified \
 🎓 Cal State East Bay Cybersecurity Graduate \
 🔒 Google Certified Cybersecurity Professional \
 ☁️ Google Certified Cloud Digital Leader \
