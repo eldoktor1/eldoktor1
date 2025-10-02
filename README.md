@@ -33,7 +33,6 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 - 📁 [Active Directory Runbook](https://github.com/eldoktor1/Active-Directory-Runbook): A comprehensive guide and scripts for managing and setting up a domain environment using Active Directory.
 - 🔍 [SQL Query Filters](https://github.com/eldoktor1/SQL-Lab):  A step-by-step guide for practicing and exploring SQL queries, covering various concepts and scenarios.
 - 🐧 [File Permissions in Linux](https://github.com/eldoktor1/-File-Permissions-in-Linux-): Safeguarding access control and security for files and directories in Linux.
-- 🛡️ [Nessus Essentials Vulnerability Management Guide](https://github.com/eldoktor1/Nessus-Essentials-Vulnerability-Management-Capstone-Project): A Comprehensive Guide on Vulnerability Scanning by Tenable Nessus
 - 🚀 [Fl Studio Automation](https://github.com/eldoktor1/Fl-Studio-Automation): A repository that automates repetitive tasks in FL Studio, simplifying the creation of zipped loop packages.  
 
 ## Connect with Me
