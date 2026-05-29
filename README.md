@@ -25,7 +25,6 @@ I have a strong passion for both technology and psychology, and I enjoy explorin
 ## Projects
 
 - 🛰️ [Microsoft Sentinel Deployment](https://github.com/eldoktor1/Home-SOC-Lab): Implemented a Microsoft Sentinel environment for St. Antonious Coptic Orthodox Church, integrating honeypots, Azure log ingestion, and KQL dashboards to simulate and visualize real-world incident detection.
-- 📡 [Recon & Vulnerability Automation System](https://github.com/eldoktor1/Recon-Vulnerability-Automation-System): automated pipeline for subdomain discovery, recon, and vulnerability scanning with real-time Discord alerts, Elasticsearch, and Kibana integrations.
 - 🕵️ [Recon Workflow](https://github.com/eldoktor1/Recon-Workflow): End-to-end bug bounty recon playbook covering subdomain enumeration, liveness/tech fingerprinting, parameter mining, Nuclei/FFUF scans, and report-ready outputs.
 - 🔓 [Penetration Test Report](https://github.com/eldoktor1/Penetration-Test-Report): An assessment of a fictitious company's cyber hygiene
 - 🛠️ [WAF Bypass Automation Script](https://github.com/eldoktor1/-WAF-Bypass-Automation-Script-/tree/main): A bash script that automates WAF bypass techniques using random user agents, URL encodings, and HTTP header manipulations, with built-in delays to evade detection.
